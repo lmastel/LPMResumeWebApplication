@@ -1,0 +1,23 @@
+/* 
+    Document   : lpmresume
+    Created on : Aug 28, 2013, 10:37:42 AM
+    Author     : LPM
+    Description:
+        Purpose of the stylesheet follows.
+*/
+
+h2
+{
+    color:blue;
+    text-align:center;
+}
+p {
+    text-align:justify;
+    left-margin:100px;
+    right-margin:100px;}
+p.indented
+   {
+   padding-left: 25pt;
+   
+   }
+
